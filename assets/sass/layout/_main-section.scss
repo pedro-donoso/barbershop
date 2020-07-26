@@ -1,0 +1,70 @@
+.hero-section{
+display: block;;
+position: relative;
+padding: 1rem;
+margin: auto;
+font-weight: bold;;
+
+}
+
+
+.main_section{
+text-align: center;
+display: block;
+position: relative;
+
+
+}
+
+.main__title {
+color: $color_blanco;
+text-align: center;
+margin-top: 20%;
+display: flexbox;
+position: relative;
+font-family: $gray;
+
+}
+
+.main__title-emphasis {
+font-family: $playfair;
+font-weight: $bold;
+}
+.main__title-emphasis_size-xxl {
+font-size: $xxxx-large;
+}
+.main__button {
+margin: 20px;
+}
+
+.lista {
+    margin: 1rem;
+    border: solid 1px red;
+    position: relative;
+    display: inline-block;
+
+}
+
+.paginas{
+    text-align: center;
+    margin: 1rem;
+}
+
+.bigote{
+    text-align: center;
+    display: inline-flexbox;
+    
+    position: relative;
+}
+
+.container{
+
+display: inline-block;
+margin: 50%;
+margin-left: 50%;
+
+}
+
+.foto{
+    border-radius: 50%;
+}

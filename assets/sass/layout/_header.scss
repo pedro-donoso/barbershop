@@ -1,0 +1,16 @@
+/* Header Layout */
+.header {
+padding-top: 2rem;
+padding-left: 2rem;
+background-color: #000000;
+}
+
+
+.fixed-top {
+    background-color: black;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color:  #c86c0a;
+}
+
